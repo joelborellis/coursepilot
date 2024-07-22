@@ -3,4 +3,4 @@ colorama
 json
 requests
 azure-search-documents
-dotenv-python
+python-dotenv

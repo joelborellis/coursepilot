@@ -1,5 +1,5 @@
 # Coursepilot
-Coursepilot generates educational content and turns them into easy to navigae full courses with included audio learning so you can listen to your courses.  You can choose to build your course outline and content from your own corpus of data.  Or, you can use content from any website.
+Coursepilot generates educational content and turns it into easy to navigate full courses with included audio learning so you can listen to your courses.  You can choose to build your course outline and content from your own corpus of data.  Or, you can use content from any website.
 
 When you are done generating the course outline and content for whatever you want to teach or learn, you can deploy the course online in minutes and start creating a catalog of online training courses.
 

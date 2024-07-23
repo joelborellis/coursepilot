@@ -1,47 +1,81 @@
 {
-  "course_title": "Beginners Guide to the Challenger Sales Methodology",
-  "description": "This course is designed to introduce beginners to the Challenger Sales Methodology. Students will learn the fundamentals of the Challenger model, its core principles of teaching for differentiation, tailoring messages for resonance, and taking control of the sale. The course will also provide practical insights on how to implement and adapt these strategies effectively to enhance sales performance.",
+  "course_title": "Practical Applications of the Challenger Sales Methodology",
+  "description": "This course is designed to provide a detailed understanding of the Challenger sales methodology and its practical applications in various sales scenarios. Participants will learn how to effectively implement this approach to improve their sales performance and drive customer loyalty.",
   "lessons": [
     {
       "lesson_title": "Introduction to the Challenger Sales Methodology",
-      "lesson_overview": "In this lesson, students will learn about the origins and basics of the Challenger Sales Methodology, the different sales rep profiles identified in the model, and why the Challenger profile is most effective.",
+      "lesson_overview": "In this lesson, students will be introduced to the fundamentals of the Challenger sales methodology, including its origins, key principles, and the different types of sales reps it identifies.",
       "lesson_objectives": [
-        "Understand the history and development of the Challenger Sales Methodology",
-        "Identify the five types of sales reps and their characteristics",
-        "Explain why the Challenger sales rep is most successful"
-      ],
-      "lesson_topics": [
-        "History and Evolution of Challenger Sales",
-        "The Five Sales Rep Profiles: Hard Worker, Relationship Builder, Lone Wolf, Reactive Problem Solver, and Challenger",
-        "Key Findings from the Challenger Research"
+        "Understand the five types of sales reps identified by the Challenger model.",
+        { 
+          "lesson_topic": [
+            "The Hard Worker", 
+            "The Challenger", 
+            "The Relationship Builder", 
+            "The Lone Wolf", 
+            "The Reactive Problem Solver"
+          ]
+        },
+        "Recognize the reasons why the Challenger approach is more effective than traditional methods.",
+        {
+          "lesson_topic": [
+            "Comparative Effectiveness of Challenger vs. Traditional Methods"
+          ]
+        },
+        "Learn the fundamental principles of the Challenger sales methodology.",
+        {
+          "lesson_topic": [
+            "Teach, Tailor, Take Control"
+          ]
+        }
       ]
     },
     {
-      "lesson_title": "Core Principles of the Challenger Model",
-      "lesson_overview": "This lesson will dive into the core principles of the Challenger Sales Methodology - teaching for differentiation, tailoring for resonance, and taking control. Students will learn the importance of each principle and how to apply them in sales interactions.",
+      "lesson_title": "Implementing the Challenger Sales Approach",
+      "lesson_overview": "This lesson focuses on the practical implementation of the Challenger sales approach. Students will learn specific strategies and techniques to apply the Challenger model effectively in their sales activities.",
       "lesson_objectives": [
-        "Comprehend the core principles: Teaching, Tailoring, and Taking Control",
-        "Learn how to use teaching to differentiate from competitors",
-        "Understand the importance of tailoring messages to different stakeholders"
-      ],
-      "lesson_topics": [
-        "Teaching for Differentiation: Why Insight Matters",
-        "Tailoring for Resonance: Understanding Stakeholder Priorities",
-        "Taking Control: Asserting Leadership in Sales Conversations"
+        "Learn how to teach customers with unique insights tailored to their business.",
+        {
+          "lesson_topic": [
+            "Creating and Delivering Teaching Moments"
+          ]
+        },
+        "Understand how to tailor the sales message to resonate with different stakeholders.",
+        {
+          "lesson_topic": [
+            "Customizing Sales Conversations for Stakeholders"
+          ]
+        },
+        "Master techniques for taking control of the sales conversation without becoming aggressive.",
+        {
+          "lesson_topic": [
+            "Assertive Sales Tactics and Techniques"
+          ]
+        }
       ]
     },
     {
-      "lesson_title": "Implementation of the Challenger Sales Methodology",
-      "lesson_overview": "In this lesson, students will explore practical strategies for implementing the Challenger Sales Methodology within their sales teams. Students will learn about the tools, training, and practices needed to cultivate Challenger reps.",
+      "lesson_title": "Advanced Challenger Sales Techniques and Analytics",
+      "lesson_overview": "In this lesson, students will dive deeper into advanced techniques for the Challenger sales methodology, backed by data-driven insights and analytics. They will learn how to analyze sales performance and continuously improve their approach.",
       "lesson_objectives": [
-        "Identify the steps to implement the Challenger model",
-        "Learn about tools and training necessary for Challenger reps",
-        "Understand the role of coaching and organizational support in cultivating Challenger behaviors"
-      ],
-      "lesson_topics": [
-        "Building Organizational Capability for Challenger Selling",
-        "Tools and Training for Challenger Reps",
-        "The Role of Coaching and Continuous Improvement"
+        "Utilize data analytics to measure and enhance sales performance.",
+        {
+          "lesson_topic": [
+            "Sales Performance Metrics and Analysis"
+          ]
+        },
+        "Learn advanced Challenger techniques for complex sales environments.",
+        {
+          "lesson_topic": [
+            "Handling Complex Sales Situations with Challenger Techniques"
+          ]
+        },
+        "Develop strategies for training and coaching sales teams in the Challenger methodology.",
+        {
+          "lesson_topic": [
+            "Coaching and Mentoring Sales Teams"
+          ]
+        }
       ]
     }
   ]
